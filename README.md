@@ -1,10 +1,10 @@
 # git-exploration
 
-Belajar Git dengan GitHub - (38%)<br>
-20 Agustus 2025
+**20 Agustus 2025**<br>
+Belajar Git dengan GitHub - (38%)
 * Belajar contoh workflow git
 * Studi kasus git dengan GitHub
 
-Belajar Git dengan GitHub - (39%)<br>
-20 Agustus 2025
+**20 Agustus 2025**<br>
+Belajar Git dengan GitHub - (39%)
 * Belajar perintah dasar Git
